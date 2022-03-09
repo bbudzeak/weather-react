@@ -1,0 +1,16 @@
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 10px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&family=Source+Code+Pro:wght@300&display=swap");
+
+.container {
+  max-width: 1000px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 1px solid #dadde1;
+  border-radius: 5px;
+  background-color: #caf7f885;
+}
