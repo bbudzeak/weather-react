@@ -13,7 +13,11 @@ function App() {
       </div>
       <div className="git-link">
         <span> Code by Bethany Budzeak: </span>
-        <a href="https://github.com/bbudzeak/weather-react" target="_blank">
+        <a
+          href="https://github.com/bbudzeak/weather-react"
+          target="_blank"
+          rel="noreferrer"
+        >
           Link to GitHub
         </a>
       </div>
