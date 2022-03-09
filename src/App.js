@@ -3,7 +3,6 @@ import "./styles.css";
 import React from "react";
 import Form from "./Form";
 import Daily from "./Daily";
-import Search from "./Search";
 
 function App() {
   return (
