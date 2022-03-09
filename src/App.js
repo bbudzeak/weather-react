@@ -3,7 +3,7 @@ import "./styles.css";
 import React from "react";
 import Form from "./Form";
 import Daily from "./Daily";
-import Forecast from "./Forecast";
+import Search from "./Search";
 
 function App() {
   return (
@@ -11,7 +11,12 @@ function App() {
       <div className="container">
         <Form />
         <Daily />
-        <Forecast />
+      </div>
+      <div className="git-link">
+        <span> Code by Bethany Budzeak: </span>
+        <a href="https://github.com/bbudzeak/weather-react" target="_blank">
+          Link to GitHub
+        </a>
       </div>
     </div>
   );
